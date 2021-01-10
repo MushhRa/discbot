@@ -15,4 +15,4 @@ async def coinflip(ctx):
     rancoin = random.choice(choices)
     await ctx.send(rancoin)
 
-client.run('Nzk1ODk5ODE1ODMyODQ2MzM2.X_QFdw.rO2NQ4XGVr7F5KiNwYSCSLnD9PA')
+client.run('TOKEN')
